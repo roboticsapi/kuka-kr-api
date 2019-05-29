@@ -1,0 +1,6 @@
+org.roboticsapi.kuka.kr.extension.KukaRobotExtension
+org.roboticsapi.kuka.kr.collada.extension.KR16_2ColladaExtension
+org.roboticsapi.kuka.kr.collada.extension.KR210R3100ColladaExtension
+org.roboticsapi.kuka.kr.javarcc.extension.KukaKRJavaRCCExtension
+org.roboticsapi.kuka.kr.runtime.extension.SoftRobotKukaRobotExtension
+org.roboticsapi.kuka.kr.runtime.extension.SoftRobotKukaRobotRSIExtension
