@@ -1,0 +1,4 @@
+org.roboticsapi.device.kuka.kr.extension.KrExtension
+org.roboticsapi.device.kuka.kr.javarcc.extension.KrJavaRccExtension
+org.roboticsapi.device.kuka.kr.runtime.rpi.extension.KrRuntimeExtension
+org.roboticsapi.device.kuka.kr.visualization.KrVisualizationExtension
